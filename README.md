@@ -14,3 +14,4 @@ sudo python hash_generator.py
 **If you like this project, which I developed in Second Year in College. Support me giving a star**  
 </br>
 **Thank you**
+ 
