@@ -1,0 +1,4 @@
+#Python Version 2
+tkinter
+hashlib
+binascii
