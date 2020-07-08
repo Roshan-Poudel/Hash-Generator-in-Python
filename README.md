@@ -11,6 +11,6 @@ https://github.com/Papu11/Hash-Generator-in-Python.git
 cd Hash-Generator-in-Python  
 sudo python hash_generator.py   
 
-**If you like this project, which I developed in Second Year in College. Support me giving a star **  
+**If you like this project, which I developed in Second Year in College. Support me giving a star**  
 </br>
 **Thank you**
