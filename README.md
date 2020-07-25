@@ -6,7 +6,7 @@ A hash is a function that converts one value to another. Hashing data is a commo
 2. Supported Hashing Algorithms MD5,SHA1,SHA2,SHA3 ,Blake2a and Blake2b
 3. Helps in Development of Rainbow Table
 
-### To Run the Script
+## To Run the Script
 git clone *https://github.com/Roshan-Poudel/Hash-Generator-in-Python.git*  
 cd Hash-Generator-in-Python  
 sudo python hash_generator.py   
