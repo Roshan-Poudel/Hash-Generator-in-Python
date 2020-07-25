@@ -7,7 +7,7 @@ A hash is a function that converts one value to another. Hashing data is a commo
 3. Helps in Development of Rainbow Table
 
 ### To Run the Script
-https://github.com/Papu11/Hash-Generator-in-Python.git  
+git clone *https://github.com/Roshan-Poudel/Hash-Generator-in-Python.git*  
 cd Hash-Generator-in-Python  
 sudo python hash_generator.py   
 
