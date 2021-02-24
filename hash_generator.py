@@ -1,7 +1,8 @@
 from tkinter import Button,Label,messagebox,Text,Entry,Tk
 from tkinter import ttk
 from tkinter import *
-import hashlib,binascii
+import hashlib, binascii
+
 class Papu:
     def __init__(self, master):
 
